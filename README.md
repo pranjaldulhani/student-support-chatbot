@@ -75,4 +75,4 @@ Never upload your API key to GitHub. This project reads the key from an environm
 
 ## Author
 
-Made by [Your Name] as a practical project for MCA.
+Made by [Pranjal Dulhani] as a practical project for MCA.
